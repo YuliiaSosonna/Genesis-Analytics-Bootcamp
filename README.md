@@ -48,4 +48,3 @@ The goal of this project was to analyze a **payment domain dataset** in order to
 - `Tableau.twb` — Tableau workbook used to build the interactive dashboard  
 - `dashboard.png` — preview image of the Tableau dashboard  
 - `Payment_presentation.pdf` — project presentation with insights and recommendations  
-- `payments_data.csv` — original dataset used for the analysis (566k+ transactions)
